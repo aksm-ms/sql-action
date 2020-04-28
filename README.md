@@ -4,7 +4,7 @@ With the Azure SQL Action for GitHub, you can automate your workflow to deploy u
 
 Get started today with a [free Azure account](https://azure.com/free/open-source)!
 
-This repository contains GitHub Action for [Azure SQL](https://github.com/Azure/sql-action) to deploy . 
+This repository contains GitHub Action for [Azure SQL](https://github.com/Azure/sql-action) to deploy
 
 The action uses Connection string for authentication and DACPAC/SQL scripts to deploy to your SQL database.
 
